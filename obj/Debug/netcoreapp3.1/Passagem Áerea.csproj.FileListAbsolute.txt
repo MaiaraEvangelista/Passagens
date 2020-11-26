@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/bin/Debug/netcoreapp3.1/Passagem Áerea
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/bin/Debug/netcoreapp3.1/Passagem Áerea.deps.json
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/bin/Debug/netcoreapp3.1/Passagem Áerea.runtimeconfig.json
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/bin/Debug/netcoreapp3.1/Passagem Áerea.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/bin/Debug/netcoreapp3.1/Passagem Áerea.dll
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/bin/Debug/netcoreapp3.1/Passagem Áerea.pdb
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/obj/Debug/netcoreapp3.1/Passagem Áerea.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/obj/Debug/netcoreapp3.1/Passagem Áerea.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/obj/Debug/netcoreapp3.1/Passagem Áerea.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/obj/Debug/netcoreapp3.1/Passagem Áerea.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/obj/Debug/netcoreapp3.1/Passagem Áerea.dll
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/obj/Debug/netcoreapp3.1/Passagem Áerea.pdb
+/home/maiara/Área de Trabalho/Backend C#/Passagem Áerea/obj/Debug/netcoreapp3.1/Passagem Áerea.genruntimeconfig.cache
